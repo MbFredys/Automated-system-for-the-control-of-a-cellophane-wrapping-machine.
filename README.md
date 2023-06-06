@@ -1,6 +1,6 @@
 # Automated-system-for-the-control-of-a-cellophane-wrapping-machine.
 
-This work proposes a modernization plan for the Sollas 20 cellophane wrapping machine of the Internacional Cubana de Tabaco S.A. factory. 
+This is the work developed by my colleague Alejandro Pérez Baez and me in pursuit of the degree of Automation Engineer in 2017. It is an automated design for the control of the SOLLAS 20 cellophane wrapping machine at the Internacional Cubana de Tabaco S.A. factory.
 
 ****Chapter I**** - In this chapter, a study of the background of the control of cellophane wrapping machines is presented, as well as the current status of the machine to be modernized, the Sollas 20.
 
