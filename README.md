@@ -4,6 +4,8 @@ This work proposes a modernization plan for the Sollas 20 cellophane wrapping ma
 
 ****Chapter I**** - In this chapter, a study of the background of the control of cellophane wrapping machines is presented, as well as the current status of the machine to be modernized, the Sollas 20.
 
-The operation of the machine is studied, and the technological means that compose it are described. Additionally, a proposal for new instrumentation is presented to increase its safety, control, and efficiency.
+****Chapter II**** - Here, the current instrumentation used is analyzed and new proposals for technological means are made for the Sollas 20 cellophane wrapping machine.
 
-The mathematical model corresponding to the temperature variation process in the sealers is obtained using identification techniques, and the corresponding control system is designed. The sequential logic of the machine is programmed in a Programmable Logic Controller (PLC), and a screen is added as a Human-Machine Interface (HMI). The new electrical panel of the machine is designed, as well as the new electrical diagrams that describe it. Different programs are used for the configuration of the devices used, as well as for the development, programming, and parameterization of the applications, including Matlab®, SoMove, TiaPortal, Sopas Engineer, and SolidWorks.
+****Chapter III**** -For this chapter, the design of the temperature control system that allows for the sealing of the packages in the machine was left.
+
+****Chapter IV**** - Here, the programming logic followed is shown, as well as the configuration of the PLC and HMI. The design of the new electrical diagram and panel is also presented.
